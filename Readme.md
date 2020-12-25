@@ -493,5 +493,5 @@ You can access messages in the code using [`get_messages()`](https://docs.django
 This is the end of the guide. If we need more roles, we can add them by using groups and permissions and then allow or block contents according to the access permissions. More aobut groups and permissions [here](https://docs.djangoproject.com/en/3.0/topics/auth/default/#permissions-and-authorization).
 
 Thanks [RealPython](https://realpython.com/django-view-authorization/) for the tutorial.
-Discuss ideas [here]().
-Report issues [here]().
+Discuss ideas [here](https://github.com/sunilale0/django-view-authorization/discussions).
+Report issues [here](https://github.com/sunilale0/django-view-authorization/issues).
